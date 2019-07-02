@@ -1,10 +1,12 @@
 .head{
     font-family: Arial, Helvetica, sans-serif;
-    text-shadow: 2px 2px 2px orange
-}
-p{
-    background-color: lightgoldenrodyellow
+    text-shadow: 2px 2px 2px grey;
+    color: #0FA89E
 }
 .par2{
-    background-color: blueviolet
+    background-color: #D6DB2B
 }
+.par1{
+    background-color: #EE6624
+}
+p{background-color: #0FA89E}
